@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+:root {
+--clr-color1: #E6563B;
+--clr-color2: #EB9D3A;
+--clr-color3: #7CB06C;
+--clr-color4: #00ABA9;
+--clr-color5: #F0F0F0;
+--clr-color6: #E6E6E6;
+}
+
+.page-wrapper {
+    background-color: var(--clr-color6);
+}
+
+.circle1 {
+    height: 105px;
+    width: 105px;
+    background-color: var(--clr-color1);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 8px solid white;
+    font-family: Anton;
+}
+.circle2 {
+    height: 105px;
+    width: 105px;
+    background-color: var(--clr-color2);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 8px solid white;
+    font-family: Anton;
+}
+.circle3 {
+    height: 105px;
+    width: 105px;
+    background-color: var(--clr-color3);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 8px solid white;
+    font-family: Anton;
+}
+.circle4 {
+    height: 105px;
+    width: 105px;
+    background-color: var(--clr-color4);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 8px solid white;
+    font-family: Anton;
+}
+h1 {
+    font-family: Anton;
+}
+h2 {
+    font-family: Anton;
+}
+.logo-name {
+    font-family: Abel;
+    font-size: 40px;
+}
+
+nav a{
+    font-family: Abel;
+    color: #505050;
+    text-decoration: none;
+}
+.section-break {
+    width: 80%;
+    padding-top: 40px;
+}
