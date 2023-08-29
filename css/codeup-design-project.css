@@ -100,3 +100,55 @@ nav a{
     height:100px;
     width: fit-content;
 }
+.small-circle1 {
+    height: 18px;
+    width: 18px;
+    background-color: var(--clr-color1);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+
+    font-family: Anton;
+}
+.small-circle2 {
+    height: 18px;
+    width: 18px;
+    background-color: var(--clr-color2);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+
+    font-family: Anton;
+}
+.small-circle3 {
+    height: 18px;
+    width: 18px;
+    background-color: var(--clr-color3);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  black;
+
+    font-family: Anton;
+}
+.small-circle4 {
+    height: 18px;
+    width: 18px;
+    background-color: var(--clr-color4);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size:13px;
+    font-family: Anton;
+}
+
+.first-card {
+    justify-content: space-between;
+}
