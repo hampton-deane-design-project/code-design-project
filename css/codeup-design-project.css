@@ -94,3 +94,9 @@ nav a{
     width: 300px;
     height: 200px;
 }
+
+.right-image img{
+    width: 100px;
+    height:100px;
+    width: fit-content;
+}
