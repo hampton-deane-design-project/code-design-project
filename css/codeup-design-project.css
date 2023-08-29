@@ -187,3 +187,14 @@ nav a{
 .right-row1-column2 {
     flex-wrap: wrap;
 }
+
+@media (min-width: 2560px) {
+    .container {
+        max-width: 70%;
+    }
+}
+
+@include media-breakpoint-up(sm) {
+
+}
+@include media-breakpoint-up(md) { ... }
